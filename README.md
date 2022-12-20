@@ -1,4 +1,4 @@
-**Olá/Hi/Hallo I'm Gabriel 👋
+<h1>Olá/Hi/Hallo I'm Gabriel 👋</h1>
 
 - 🧑🏽‍💻 Front-end Engineer 
 - 📚 Learning: Javascript, CSS, HTML, React
