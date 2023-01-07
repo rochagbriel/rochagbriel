@@ -1,7 +1,7 @@
 <h1>Olá/Hi/Hallo I'm Gabriel 👋</h1>
 
-- 🧑🏽‍💻 Front-end Engineer 
-- 📚 Learning: Javascript, CSS, HTML, React
+- 🧑🏽‍💻 Fullstack Developer 
+- 📚 Learning: Javascript, CSS, HTML, React, SQL, Ruby on Rails
 - 📫 How to reach me: rochagbriel@gmail.com
 - 😄 Pronouns: he/him
 - 🌍 From Brazil🇧🇷 living in Germany🇩🇪
