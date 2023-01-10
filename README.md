@@ -7,11 +7,8 @@
 - 😄 Pronouns: he/him
 - 🌍 From Brazil🇧🇷 living in Germany🇩🇪
 
-<div>
-  <a href="https://github.com/rochagbriel">
-  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=rochagbriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochagbriel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Gabriel Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochagbriel&theme=dark&show_icons=true)](https://github.com/rochagbriel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochagbriel&theme=dark&show_icons=true)](https://github.com/rochagbriel/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
