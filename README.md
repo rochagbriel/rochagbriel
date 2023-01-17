@@ -1,8 +1,8 @@
 <h1>Olá/Hi/Hallo I'm Gabriel 👋</h1>
 
 - 🧑🏽‍💻 Fullstack Developer 
-- 💻 Working with: Javascript, CSS, HTML
-- 📚 Learning: React, ReactNative, SQL, Typescript, NodeJS
+- 💻 Working with: JavaScript, CSS, HTML
+- 📚 Learning: React, ReactNative, SQL, TypeScript, NodeJS
 - 📫 How to reach me: rochagbriel@gmail.com
 - 😄 Pronouns: he/him
 - 🌍 From Brazil🇧🇷 living in Germany🇩🇪
