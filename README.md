@@ -1,5 +1,6 @@
 <h1>Olá/Hi/Hallo I'm Gabriel 👋</h1>
 
+<br/>
 
 - 🧑🏽‍💻 Fullstack Developer 
 - 💻 Working with: JavaScript, CSS, HTML
