@@ -7,7 +7,7 @@
 - 📚 Learning: React, ReactNative, SQL, TypeScript, NodeJS
 - 📫 How to reach me: rochagbriel@gmail.com
 - 😄 Pronouns: he/him
-- 🌍 From Brazil🇧🇷 living in Germany🇩🇪
+- 🌍 Made in Brazil🇧🇷 living in Germany🇩🇪
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
