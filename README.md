@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochagbriel&theme=transparent&show_icons=true&card_width=450)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochagbriel&theme=transparent&card_width=450)](https://github.com/rochagbriel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochagbriel&theme=transparent&card_width=450&hide=html)](https://github.com/rochagbriel/github-readme-stats)
 
 <div>
 <a href = "mailto:rochagbriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
