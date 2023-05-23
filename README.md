@@ -3,8 +3,8 @@
 <br/>
 
 - 🧑🏽‍💻 Fullstack Developer 
-- 💻 Working with: JavaScript, CSS, SCSS, HTML
-- 📚 Learning: React.js, React Native, SQL, MongoDB, Angular, TypeScript, Node.js
+- 💻 Working with: JavaScript, CSS, SCSS, HTML, React.js
+- 📚 Learning: React Native, SQL, MongoDB, Angular, TypeScript, Node.js, Express.js
 - 📫 How to reach me: rochagbriel@gmail.com
 - 😄 Pronouns: he/him
 - 🌍 Made in Brazil🇧🇷 living in Germany🇩🇪
