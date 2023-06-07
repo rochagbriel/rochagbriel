@@ -4,7 +4,7 @@
 
 - 🧑🏽‍💻 Fullstack Developer (M.E.R.N)(M.E.A.N)
 - 💻 Working with: JavaScript, CSS, SCSS, HTML, React.js
-- 📚 Learning: React Native, SQL, MongoDB, Angular, TypeScript, Node.js, Express.js
+- 📚 Learning: Redux, AWS Lambda, Jest, React Native, SQL, MongoDB, Angular, TypeScript, Node.js, Express.js
 - 📫 How to reach me: rochagbriel@gmail.com
 - 😄 Pronouns: he/him
 - 🌍 Made in Brazil🇧🇷 living in Germany🇩🇪
