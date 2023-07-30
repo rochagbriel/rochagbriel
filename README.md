@@ -3,8 +3,8 @@
 <br/>
 
 - 🧑🏽‍💻 Fullstack Developer
-- 💻 Working with: JavaScript, CSS, SCSS, HTML, React.js, JQuery
-- 📚 Learning: Bootstrap, Redux, AWS Lambda, Jest, React Native, PHP, MySQL, MongoDB, Angular, TypeScript, Node.js, Express.js, Vue.js
+- 💻 Working with: JavaScript, CSS, SCSS, HTML, React.js, JQuery, PHP, MySQL
+- 📚 Learning: Bootstrap, Redux, AWS Lambda, Jest, React Native, MongoDB, Angular, TypeScript, Node.js, Express.js, Vue.js
 - 📫 How to reach me: rochagbriel@gmail.com
 - 😄 Pronouns: he/him
 - 🌍 Made in Brazil🇧🇷 living in Germany🇩🇪
@@ -19,6 +19,7 @@
   <img align="center" alt="Gab-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" >
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gab-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Gab-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Gab-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gab-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gab-Expressjs" height="34" width="40" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png">
