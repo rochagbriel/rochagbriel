@@ -3,8 +3,8 @@
 <br/>
 
 - 🧑🏽‍💻 Fullstack Developer
-- 💻 Working with: JavaScript, CSS, SCSS, HTML, React.js, JQuery, PHP, MySQL
-- 📚 Learning: Bootstrap, Redux, AWS Lambda, Jest, React Native, MongoDB, Angular, TypeScript, Node.js, Express.js, Vue.js, Ruby, Ruby on Rails
+- 💻 Working with: PHP, JavaScript, Angular, TypeScript, Bootstrap, CSS, SCSS, HTML, Vue.js, JQuery, MySQL.
+- 📚 Learning: Laravel, PHPUnit, React.js, Redux, AWS Lambda, Jest, React Native, MongoDB, Node.js, Express.js, Ruby, Ruby on Rails.
 - 📫 How to reach me: rochagbriel@gmail.com
 - 😄 Pronouns: he/him
 - 🌍 Made in Brazil🇧🇷 living in Germany🇩🇪
